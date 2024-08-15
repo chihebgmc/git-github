@@ -78,6 +78,12 @@ Finally, push your local commits to the remote repository:
 
 This pushes the commits to the `main` branch of the remote repository.
 
+## 10. Viewing Commit History
+
+To see the history of commits:
+
+    git log
+
 ## Summary of Commands:
 
     git --version
