@@ -97,5 +97,6 @@ To see the history of commits:
     git commit -m "Initial commit"
     git remote add origin https://github.com/yourusername/your-repo.git
     git push -u origin main
+    git log
 
 With these steps, you've successfully created a local Git repository and, if desired, linked it to a remote repository.
