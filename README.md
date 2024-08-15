@@ -80,10 +80,12 @@ This pushes the commits to the `main` branch of the remote repository.
 
 ## Summary of Commands:
 
+    git --version
     git config --global user.name "Your Name"
     git config --global user.email "youremail@example.com"
     mkdir my-project
     cd my-project
+    touch file1.txt file2.txt
     git init
     git add .
     git commit -m "Initial commit"
